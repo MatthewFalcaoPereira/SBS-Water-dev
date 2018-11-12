@@ -1,0 +1,23 @@
+{
+  "id": "1c0a20b7-ba8e-478d-b548-fae1d8d5e1b0",
+  "name": "SBSWater",
+  "publisher": "MFP",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 60000,
+    "to": 99999
+  },
+  "runtime": "1.0"
+}
